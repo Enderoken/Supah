@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supah", "Supah\Supah.csproj", "{DF39704D-AA9A-4ABD-9EE1-8D28632FA342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF39704D-AA9A-4ABD-9EE1-8D28632FA342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF39704D-AA9A-4ABD-9EE1-8D28632FA342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF39704D-AA9A-4ABD-9EE1-8D28632FA342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF39704D-AA9A-4ABD-9EE1-8D28632FA342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534E4D13-7BCE-4AA4-834A-67DF4906E417}
+	EndGlobalSection
+EndGlobal
